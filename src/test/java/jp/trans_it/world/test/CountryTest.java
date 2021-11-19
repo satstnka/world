@@ -1,4 +1,4 @@
-package cc.shinbi.world.test;
+package jp.trans_it.world.test;
 
 import java.sql.SQLException;
 import java.util.List;
